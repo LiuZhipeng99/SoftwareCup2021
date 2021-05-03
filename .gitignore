@@ -1,0 +1,8 @@
+# 以下是被100m限制的文件
+models
+*.h5
+variables.*
+*.bin
+news_souhusite.pkl.bz2
+*.dat
+*.pyc
